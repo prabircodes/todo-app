@@ -1,0 +1,16 @@
+.wrapper {
+  margin: 10px 0px;
+  border: 2px solid #777;
+  border-radius: 5px;
+}
+.task-body {
+  padding: 5px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.task-body h4 {
+  font-size: 1rem;
+  font-weight: 400;
+  text-transform: capitalize;
+}
